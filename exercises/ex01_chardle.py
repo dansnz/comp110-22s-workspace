@@ -45,4 +45,4 @@ else:
     if count == 1:
         print(str(count) + " instance of " + character + " found in " + word)
     else:
-        print(str(count) + " instances of " + character + " found in " + word)
+        print(str(count) + " instances of " + character + " found in " + word) 
